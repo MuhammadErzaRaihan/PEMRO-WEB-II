@@ -1,0 +1,10 @@
+__ci_last_regenerate|i:1747702941;_ci_previous_url|s:40:"http://localhost:8080/index.php/register";error|s:332:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Bidang username setidaknya harus 4 panjang karakter.</li>
+					<li>Bidang password_conf tidak cocok dengan bidang password.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:3:{s:5:"error";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:5:{s:14:"csrf_test_name";s:32:"246634a6847406518349a699e6145434";s:8:"username";s:3:"Adi";s:8:"password";s:9:"200704adi";s:13:"password_conf";s:9:"270704adi";s:5:"email";s:13:"adi@gamil.com";}}_ci_validation_errors|a:2:{s:8:"username";s:52:"Bidang username setidaknya harus 4 panjang karakter.";s:13:"password_conf";s:56:"Bidang password_conf tidak cocok dengan bidang password.";}
